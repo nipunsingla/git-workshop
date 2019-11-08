@@ -6,6 +6,9 @@
  - Udaan
  - 2 States
  - 3 Idiots
+ - October
+ - Rand De Basanti
+ - Chhichhore
  
 ### Hollywood Movies
 
@@ -17,3 +20,4 @@
  - Twilight Saga
  - Shutter Island
  - The Man who knew infinity
+ - Forrest Gump
